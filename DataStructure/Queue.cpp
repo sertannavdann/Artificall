@@ -6,20 +6,18 @@
 
 using namespace std;
 
-// void Queue::enqueue(Item * newItem);
-// Item * Queue::dequeue();
-// Item * Queue::peek();
-// bool Queue::isEmpty();
-
-class Item {
-    public:
+/class Item {
+    private:
         int value;
         Item * next;
+        
+    public:
         Item(int value) {
             this->value = value;
-
             this->next = NULL;
         }
+        
+        friend class Queue;
 };
 
 class Queue {
