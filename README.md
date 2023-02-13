@@ -1,6 +1,6 @@
-# Some useful core Algorithms for Artificial Intelligence 
+Some useful cores for Artificial Intelligence Applications
 
-### Nearest Hotel
+# Nearest Hotel
 __________
 #### Q-Value
 
@@ -20,7 +20,7 @@ This is a C++ code that implements the Q-learning algorithm for reinforcement le
 
 __________
 
-### AI Tools
+# AI Tools
 
 #### Max Pooling
 
@@ -31,7 +31,7 @@ __________
 - Where F is the size of the pooling filter (usually F = 2 or F = 3). This formula takes the maximum value within a F x F pooling region for each channel c in the input X, and outputs a reduced-resolution feature map Y of the same number of channels C. The max-pooling operation reduces the spatial resolution of the input, effectively reducing the number of parameters in the network and allowing it to learn features that are robust to translations in the input.
 __________
 
-### Data Structures
+# Data Structures
 
 #### Linked List
 
