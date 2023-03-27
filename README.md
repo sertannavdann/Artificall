@@ -1,6 +1,6 @@
 Some useful cores for Artificial Intelligence Applications
 
-# Nearest Hotel
+# Nearest Distance
 __________
 #### Q-Value
 
